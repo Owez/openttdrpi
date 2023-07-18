@@ -1,6 +1,6 @@
 # OpenTTD on Raspberry Pi
 
-A very short guide on how to run a modern OpenTTD binary on a Raspberry Pi that'll will work for newer generations (3/4/etc).
+Resources for running OpenTTD on the Raspberry Pi
 
 ## Builds
 
@@ -9,6 +9,8 @@ Here's a list of binaries I've built for OpenTTD:
 - OpenTTD 13.3 64-bit, Built 18/07/2023 with a Raspberry Pi 4: [Download](https://github.com/Owez/openttdrpi/blob/master/binaries/openttd-rpi4-64bit-v13-3.zip) 
 
 ## Compiling
+
+A short guide on how to compile & run a modern OpenTTD binary on a Raspberry Pi that'll work for newer generations (3/4/etc). After reading this, you might want to look at the resources for [dedicated servers](https://wiki.openttd.org/en/Manual/Dedicated%20server)!
 
 First, download the zipped source files from the [downloads page](https://www.openttd.org/downloads/openttd-releases/latest); this unzipped directory will be referred to as the *source directory*. Once you have them unzipped, install the following compilation dependencies:
 
