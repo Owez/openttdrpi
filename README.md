@@ -6,7 +6,7 @@ Resources for running OpenTTD on the Raspberry Pi
 
 Here's a list of binaries I've built for OpenTTD:
 
-- OpenTTD 13.3 64-bit, Built 18/07/2023 with a Raspberry Pi 4: [Download](https://github.com/Owez/openttdrpi/blob/master/binaries/openttd-rpi4-64bit-v13-3.zip) 
+- OpenTTD v13.3 64-bit, Built 18/07/2023 with a Raspberry Pi 4: [Download](https://github.com/Owez/openttdrpi/blob/master/binaries/openttd-rpi4-64bit-v13-3.zip) 
 
 ## Compiling
 
